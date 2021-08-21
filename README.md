@@ -2,7 +2,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/ImTheekshana"><img src="https://telegra.ph/file/7ece6c8d2c9c2583600ad.png" width="150px" height="150px" /></a> |
+| <p align="center"><a href="https://t.me/ImTheekshana"><img src="https://telegra.ph/file/7ece6c8d2c9c2583600ad.png" width="150px" height="150px" /></a></p> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](https://t.me/ImTheekshana)**                                                                                |                                        |
 
